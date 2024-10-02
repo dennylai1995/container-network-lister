@@ -26,10 +26,10 @@ festive_matsumoto
 <table>
     <tr>
         <td>OS</td>
-        <td>Ubuntu 20.04<td>
+        <td>Ubuntu 20.04</td>
     </tr>
     <tr>
         <td>Docker</td>
-        <td>23.0.3, build 3e7cbfd<td>
+        <td>23.0.3, build 3e7cbfd</td>
     </tr>
 </table>
