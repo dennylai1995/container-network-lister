@@ -6,7 +6,7 @@ A script to list network information of all running docker containers.
 ```bash
 $ bash container-network-lister.sh
 [container_name]
-festive_matsumoto
+modest_nightingale
 
 [port_mapping]
 3000/tcp -> 0.0.0.0:3000
@@ -15,11 +15,13 @@ festive_matsumoto
 [network]
 [
     {
+        "Host NIC Name": "docker0",
         "Name": "bridge",
         "ID": "3070dc0814bf",
         "IP": "172.26.0.2/16"
     }
 ]
+---------------------------
 ```
 
 ## Test Environment
